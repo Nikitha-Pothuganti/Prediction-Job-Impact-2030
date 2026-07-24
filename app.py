@@ -133,7 +133,7 @@ if "history" not in st.session_state:
 ## TITLE##
 st.markdown("""
 <div class='title'>
-🤖 AI Impact on Jobs 2030
+ 👨‍💻 AI Impact on Jobs 2030
 </div>
 
 <div class='subtitle'>
